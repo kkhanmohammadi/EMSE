@@ -2,3 +2,4 @@ This repository includes classification over benign and malicious applications u
 
 The R codes are another approach for classication of benign and malicious apps. I used Eclat for extracting itemset for utilizing as featureset and classifing using machine learning. We also used SMOTE for imbalance data.
 
+PCA.docx explains an experiment for unsupervised feature reduction using PCA
